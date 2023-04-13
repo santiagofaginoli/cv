@@ -42,7 +42,7 @@ const Layout = ({ children }) => {
         <Navbar.Toggle showIn='xs' />
         <Navbar.Brand>
           <Text b color='inherit' hideIn='xs'>
-            Nicolas Pereyra
+            Santiago Faginoli
           </Text>
         </Navbar.Brand>
         <Navbar.Content
@@ -91,14 +91,14 @@ const Layout = ({ children }) => {
               </Button>
             </Popover.Trigger>
             <Popover.Content>
-              <Text css={{ p: "$4" }}>-Nicolas Pereyra</Text>
+              <Text css={{ p: "$4" }}>-Santiago Faginoli</Text>
            
            
             </Popover.Content>
           </Popover>
         </Grid>
         <Grid>
-          Nicolas Pereyra
+          Santiago Faginoli
         </Grid>
  
       </Navbar>
